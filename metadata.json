@@ -1,0 +1,6 @@
+{
+  "name": "网文真实世界模拟器",
+  "description": "一个能任选或贴入经典网络小说，将其剧情在瞬间构建为真实的开放因果世界，由AI担任世界掌控者（Dungeon Master）并让玩家作为主角亲临冒险、逆天改命的动态网文宇宙模拟器。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
